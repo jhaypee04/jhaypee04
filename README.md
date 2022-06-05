@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhaypee04
 - 👀 I’m interested in Programming in JavaScript
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Reactjs (Intermediate level)
 - 💞️ I’m looking to collaborate on JavaScript Projects
 - 📫 How to reach me: MTN(Nigeria)-> +2348141531489 ; Email: pauledozie004@gmail.com
 
